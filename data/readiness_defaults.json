@@ -1,0 +1,50 @@
+{
+  "Rice": {
+    "Tamil Nadu": {
+      "seed_available": "Yes",
+      "fertilizer": "Basal NPK 10-26-26 + split N",
+      "irrigation": "Canal/monsoon; keep 2-3 cm ponding",
+      "labor": "High",
+      "weather_flags": ["Watch monsoon onset", "Plan harvest before northeast monsoon"]
+    },
+    "Punjab": {
+      "seed_available": "Yes",
+      "fertilizer": "Split urea + DAP basal",
+      "irrigation": "Canal/tube well; puddled fields",
+      "labor": "Medium",
+      "weather_flags": ["Pre-harvest rain risk in October"]
+    }
+  },
+  "Wheat": {
+    "Punjab": {
+      "seed_available": "Yes",
+      "fertilizer": "DAP at sowing, urea at CRI",
+      "irrigation": "Tube well/canal; 4-5 irrigations",
+      "labor": "Medium",
+      "weather_flags": ["Fog and rust risk in Jan-Feb", "Terminal heat in March-April"]
+    },
+    "Tamil Nadu": {
+      "seed_available": "Yes",
+      "fertilizer": "Balanced NPK per soil test",
+      "irrigation": "Canal/borewell",
+      "labor": "Medium",
+      "weather_flags": ["Northeast monsoon puddling in early season"]
+    }
+  },
+  "Cotton": {
+    "Maharashtra": {
+      "seed_available": "Yes",
+      "fertilizer": "Split N with basal P&K",
+      "irrigation": "Rainfed with protective irrigation",
+      "labor": "High",
+      "weather_flags": ["Erratic monsoon onset", "Post-monsoon showers during picking"]
+    },
+    "Punjab": {
+      "seed_available": "Yes",
+      "fertilizer": "Basal NPK, split N",
+      "irrigation": "Canal/tube well",
+      "labor": "Medium",
+      "weather_flags": ["Whitefly pressure in early season", "Unseasonal October rain"]
+    }
+  }
+}

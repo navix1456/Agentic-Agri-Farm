@@ -1,0 +1,66 @@
+{
+  "Rice": {
+    "Tamil Nadu": {
+      "Kharif": [
+        {"month": "June", "task": "Land prep and puddling", "when": "Early June", "why": "Prepare for transplanting with monsoon onset", "how": "Puddle fields, maintain bunds", "risk": "Watch for delayed rains"},
+        {"month": "July", "task": "Transplanting", "when": "First fortnight of July", "why": "Align seedlings with stable rain", "how": "20x15 cm spacing, healthy seedlings", "risk": "Heat stress in dry spells"},
+        {"month": "August", "task": "Topdressing N", "when": "25-30 DAT", "why": "Support tillering", "how": "Light split to avoid leaching", "risk": "Heavy rain may wash nutrients"},
+        {"month": "September", "task": "Weed and scout", "when": "Early September", "why": "Control weeds and pests early", "how": "Mechanical weeding + scouting", "risk": "Humid conditions favor pests"},
+        {"month": "October", "task": "Panicle initiation feed", "when": "PI stage", "why": "Support grain formation", "how": "Balanced NPK based on soil test", "risk": "Lodging risk under high N"},
+        {"month": "November", "task": "Harvest and drying", "when": "Late November", "why": "Avoid late-season storms", "how": "Drain field, harvest at 20-22% MC", "risk": "Untimely rain"}
+      ],
+      "Rabi": [
+        {"month": "December", "task": "Nursery sowing", "when": "Early December", "why": "Use residual moisture", "how": "Short-duration varieties", "risk": "Cold nights slow germination"},
+        {"month": "January", "task": "Transplanting", "when": "First half of January", "why": "Match irrigation availability", "how": "Maintain shallow water", "risk": "Dry spells increase stress"},
+        {"month": "March", "task": "Harvest", "when": "Late March", "why": "Avoid heat buildup", "how": "Harvest at physiological maturity", "risk": "Heat waves"}
+      ]
+    },
+    "Punjab": {
+      "Kharif": [
+        {"month": "June", "task": "Nursery sowing", "when": "Mid June", "why": "Time with monsoon", "how": "Pre-germinated seed", "risk": "Heat if rains delay"},
+        {"month": "July", "task": "Transplanting", "when": "Early July", "why": "Optimize water use", "how": "Short-duration for water saving", "risk": "Water table stress"},
+        {"month": "August", "task": "Weeding and urea split", "when": "25-30 DAT", "why": "Support tillers", "how": "Apply split N", "risk": "Heavy rain loss"},
+        {"month": "October", "task": "Harvest", "when": "Mid October", "why": "Free field for wheat", "how": "Harvest at 20-22% MC", "risk": "Pre-harvest rain"}
+      ]
+    }
+  },
+  "Wheat": {
+    "Punjab": {
+      "Rabi": [
+        {"month": "November", "task": "Sowing", "when": "Mid November", "why": "Avoid late sowing yield loss", "how": "Drill sow with seed treatment", "risk": "Cold snaps affect emergence"},
+        {"month": "December", "task": "First irrigation", "when": "21 DAS", "why": "Support crown root initiation", "how": "Light irrigation", "risk": "Frost risk after irrigation"},
+        {"month": "January", "task": "Topdress urea", "when": "CRI stage", "why": "Promote tillering", "how": "Apply on moist soil", "risk": "Leaching if heavy rain"},
+        {"month": "February", "task": "Weed and scout rust", "when": "Early February", "why": "Manage competition and rust", "how": "Mechanical/hand weed; scout leaves", "risk": "Humidity increases rust"},
+        {"month": "March", "task": "Earhead emergence care", "when": "Late March", "why": "Protect grain filling", "how": "Irrigate if dry", "risk": "Heat waves"},
+        {"month": "April", "task": "Harvest", "when": "Mid April", "why": "Avoid terminal heat", "how": "Harvest at 18-20% MC", "risk": "Late rain"}
+      ]
+    },
+    "Tamil Nadu": {
+      "Rabi": [
+        {"month": "November", "task": "Sowing", "when": "Late November", "why": "Use mild temps", "how": "Line sowing", "risk": "Northeast monsoon puddling"},
+        {"month": "January", "task": "Irrigation", "when": "At CRI", "why": "Root development", "how": "Light irrigation", "risk": "Dry spells"},
+        {"month": "March", "task": "Harvest", "when": "Late March", "why": "Avoid heat stress", "how": "Harvest timely", "risk": "Heat waves"}
+      ]
+    }
+  },
+  "Cotton": {
+    "Maharashtra": {
+      "Kharif": [
+        {"month": "June", "task": "Sowing", "when": "With first effective rains", "why": "Use soil moisture", "how": "Spacing 90x60 cm", "risk": "Erratic onset"},
+        {"month": "July", "task": "Gap filling and thinning", "when": "2-3 weeks after sowing", "why": "Ensure stand", "how": "Resow gaps, maintain spacing", "risk": "Heavy rain crusting"},
+        {"month": "August", "task": "Square retention and weeding", "when": "Early August", "why": "Support boll set", "how": "Weed control, balanced N", "risk": "Waterlogging"},
+        {"month": "September", "task": "Pest scouting", "when": "Weekly", "why": "Catch bollworm/whitefly early", "how": "Use pheromone traps and field scouting", "risk": "Humidity favors pests"},
+        {"month": "October", "task": "Boll development feeding", "when": "Early October", "why": "Support boll filling", "how": "Split N based on soil", "risk": "Late rain staining"},
+        {"month": "November", "task": "First picking", "when": "Dry spell window", "why": "Protect lint quality", "how": "Pick in dry hours", "risk": "Unseasonal rain"}
+      ]
+    },
+    "Punjab": {
+      "Kharif": [
+        {"month": "May", "task": "Sowing", "when": "Late May", "why": "Beat peak whitefly", "how": "Use Bt hybrids suited to region", "risk": "Heat stress"},
+        {"month": "July", "task": "Weed and square care", "when": "Early July", "why": "Maintain canopy", "how": "Inter-row weeding", "risk": "Rain may delay field entry"},
+        {"month": "August", "task": "Pest scouting", "when": "Weekly", "why": "Early bollworm detection", "how": "Traps + visual scouting", "risk": "High humidity"},
+        {"month": "October", "task": "First picking", "when": "Mid October", "why": "Protect lint", "how": "Dry picking", "risk": "Late rain"}
+      ]
+    }
+  }
+}

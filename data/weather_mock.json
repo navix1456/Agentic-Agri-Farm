@@ -1,0 +1,39 @@
+{
+  "Tamil Nadu": {
+    "May": {"level": "High", "alert": "Heat stress likely; plan irrigation windows."},
+    "June": {"level": "Medium", "alert": "Monitor monsoon onset before transplanting."},
+    "July": {"level": "Medium", "alert": "Short dry spells possible; mulch to conserve moisture."},
+    "August": {"level": "Low", "alert": "Stable rains; watch humidity for pests."},
+    "September": {"level": "Medium", "alert": "Humid period; scout for leaf diseases."},
+    "October": {"level": "High", "alert": "Cyclonic rain risk; secure harvest scheduling."},
+    "November": {"level": "High", "alert": "Northeast monsoon peaks; avoid field traffic after rain."},
+    "December": {"level": "Medium", "alert": "Cool nights; slower growth expected."},
+    "January": {"level": "Low", "alert": "Mild weather; irrigation planning is key."},
+    "February": {"level": "Low", "alert": "Favorable; continue scouting."},
+    "March": {"level": "Medium", "alert": "Heat build-up; irrigate at critical stages."}
+  },
+  "Punjab": {
+    "May": {"level": "High", "alert": "Hot winds; risk to cotton establishment."},
+    "June": {"level": "Medium", "alert": "Pre-monsoon storms possible; secure nurseries."},
+    "July": {"level": "Low", "alert": "Monsoon support; monitor waterlogging."},
+    "August": {"level": "Medium", "alert": "Humidity; rust risk for wheat is low now but scout cotton pests."},
+    "September": {"level": "Low", "alert": "Generally stable; keep scouting."},
+    "October": {"level": "High", "alert": "Unseasonal rain may hit harvests."},
+    "November": {"level": "Medium", "alert": "Cool nights; good for wheat sowing."},
+    "December": {"level": "Low", "alert": "Cold stable; watch frost pockets."},
+    "January": {"level": "Medium", "alert": "Fog and high humidity; rust vigilance."},
+    "February": {"level": "Medium", "alert": "Late winter showers possible."},
+    "March": {"level": "High", "alert": "Heat rise; wheat grain filling at risk."},
+    "April": {"level": "High", "alert": "Terminal heat; schedule harvest early."}
+  },
+  "Maharashtra": {
+    "May": {"level": "High", "alert": "Severe heat; pre-monsoon prep only."},
+    "June": {"level": "Medium", "alert": "Monsoon onset uncertain; stagger sowing."},
+    "July": {"level": "Low", "alert": "Steady rains; watch waterlogging."},
+    "August": {"level": "Medium", "alert": "Intermittent heavy rain; drainage needed."},
+    "September": {"level": "Medium", "alert": "Humidity favors bollworms; scout often."},
+    "October": {"level": "High", "alert": "Post-monsoon showers; protect bolls."},
+    "November": {"level": "Medium", "alert": "Cooler nights; good picking windows."},
+    "December": {"level": "Low", "alert": "Dry and cool; low weather risk."}
+  }
+}
