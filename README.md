@@ -291,16 +291,8 @@ MIT License - See LICENSE file for details
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Problem statement: Agriculture track - Seasonal Farm Planner & Risk Alert Agent
 - Data sources: FAO, ICAR guidelines (simplified for demo)
 - Tech: Ollama, Streamlit, phi-3-mini
-
----
-
-## 📧 Contact
-
-For questions about this Phase-1 demo, see [ARCHITECTURE.md](ARCHITECTURE.md) or review [demo_prompts.py](demo_prompts.py) for usage examples.
-
-**Demo target:** ≤5 minutes | **Focus:** Agentic AI capabilities + guardrails + transparency
